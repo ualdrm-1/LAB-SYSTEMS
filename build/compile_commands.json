@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ualdrm/Studies/My/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/my.dir/main.cpp.o -c /home/ualdrm/Studies/My/main.cpp",
+  "file": "/home/ualdrm/Studies/My/main.cpp",
+  "output": "CMakeFiles/my.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ualdrm/Studies/My/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/my.dir/src/LinkedList.cpp.o -c /home/ualdrm/Studies/My/src/LinkedList.cpp",
+  "file": "/home/ualdrm/Studies/My/src/LinkedList.cpp",
+  "output": "CMakeFiles/my.dir/src/LinkedList.cpp.o"
+}
+]

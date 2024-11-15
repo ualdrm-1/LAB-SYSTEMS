@@ -1,0 +1,3 @@
+/home/ualdrm/Studies/My/build/CMakeFiles/my.dir
+/home/ualdrm/Studies/My/build/CMakeFiles/edit_cache.dir
+/home/ualdrm/Studies/My/build/CMakeFiles/rebuild_cache.dir
